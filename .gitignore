@@ -1,0 +1,3 @@
+product-crud/.env
+SmallCrudAPI/target/
+**/node_modules/
